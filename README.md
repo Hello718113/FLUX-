@@ -159,3 +159,21 @@ bash script.sh
 - If you rename the repository to `FLUX-Bash`, update the Git clone URL and directory name accordingly.
 
 **Note:** FLUX Bash is currently under development. Some features may change as the project evolves.
+
+
+## 🌍 Open Source
+
+FLUX Bash is an open-source project licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+You are welcome to explore the source code, modify it, and share your own versions in accordance with the license terms.
+
+## 🤝 Contributing
+
+Contributions, suggestions, and bug reports are welcome!
+
+If you improve FLUX Bash or add new features, feel free to share your ideas and contribute to the project.
+
+## 📜 License
+
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for details.
